@@ -13,3 +13,18 @@ C:\Users\amin\source\repos\HW 4\HW 4\obj\Debug\net6.0\refint\HW 4.dll
 C:\Users\amin\source\repos\HW 4\HW 4\obj\Debug\net6.0\HW 4.pdb
 C:\Users\amin\source\repos\HW 4\HW 4\obj\Debug\net6.0\HW 4.genruntimeconfig.cache
 C:\Users\amin\source\repos\HW 4\HW 4\obj\Debug\net6.0\ref\HW 4.dll
+C:\Users\amin\Documents\GitHub\HW4\HW 4\bin\Debug\net6.0\HW 4.exe
+C:\Users\amin\Documents\GitHub\HW4\HW 4\bin\Debug\net6.0\HW 4.deps.json
+C:\Users\amin\Documents\GitHub\HW4\HW 4\bin\Debug\net6.0\HW 4.runtimeconfig.json
+C:\Users\amin\Documents\GitHub\HW4\HW 4\bin\Debug\net6.0\HW 4.dll
+C:\Users\amin\Documents\GitHub\HW4\HW 4\bin\Debug\net6.0\HW 4.pdb
+C:\Users\amin\Documents\GitHub\HW4\HW 4\obj\Debug\net6.0\HW 4.csproj.AssemblyReference.cache
+C:\Users\amin\Documents\GitHub\HW4\HW 4\obj\Debug\net6.0\HW 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amin\Documents\GitHub\HW4\HW 4\obj\Debug\net6.0\HW 4.AssemblyInfoInputs.cache
+C:\Users\amin\Documents\GitHub\HW4\HW 4\obj\Debug\net6.0\HW 4.AssemblyInfo.cs
+C:\Users\amin\Documents\GitHub\HW4\HW 4\obj\Debug\net6.0\HW 4.csproj.CoreCompileInputs.cache
+C:\Users\amin\Documents\GitHub\HW4\HW 4\obj\Debug\net6.0\HW 4.dll
+C:\Users\amin\Documents\GitHub\HW4\HW 4\obj\Debug\net6.0\refint\HW 4.dll
+C:\Users\amin\Documents\GitHub\HW4\HW 4\obj\Debug\net6.0\HW 4.pdb
+C:\Users\amin\Documents\GitHub\HW4\HW 4\obj\Debug\net6.0\HW 4.genruntimeconfig.cache
+C:\Users\amin\Documents\GitHub\HW4\HW 4\obj\Debug\net6.0\ref\HW 4.dll

@@ -7,11 +7,11 @@
     public string PhoneNumber { get; set; }
     public string FatherName { get; set; }
     public int Weight { get; set; }
-    public int Brithday { get; set; }
+    public int BrithDate { get; set; }
     public string Adres { get; set; }
     public override string? ToString()
     {
-        return $"{ID},{Name},{Family},{Height},{PhoneNumber},{FatherName},{Weight},{Brithday},{Adres}\n";
+        return $"{ID},{Name},{Family},{Height},{PhoneNumber},{FatherName},{Weight},{BrithDate},{Adres}\n";
     }
 
 }

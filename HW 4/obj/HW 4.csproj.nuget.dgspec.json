@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amin\\source\\repos\\HW 4\\HW 4\\HW 4.csproj": {}
+    "C:\\Users\\amin\\Documents\\GitHub\\HW4\\HW 4\\HW 4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amin\\source\\repos\\HW 4\\HW 4\\HW 4.csproj": {
+    "C:\\Users\\amin\\Documents\\GitHub\\HW4\\HW 4\\HW 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amin\\source\\repos\\HW 4\\HW 4\\HW 4.csproj",
+        "projectUniqueName": "C:\\Users\\amin\\Documents\\GitHub\\HW4\\HW 4\\HW 4.csproj",
         "projectName": "HW 4",
-        "projectPath": "C:\\Users\\amin\\source\\repos\\HW 4\\HW 4\\HW 4.csproj",
+        "projectPath": "C:\\Users\\amin\\Documents\\GitHub\\HW4\\HW 4\\HW 4.csproj",
         "packagesPath": "C:\\Users\\amin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amin\\source\\repos\\HW 4\\HW 4\\obj\\",
+        "outputPath": "C:\\Users\\amin\\Documents\\GitHub\\HW4\\HW 4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amin\\AppData\\Roaming\\NuGet\\NuGet.Config",
